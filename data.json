@@ -30,17 +30,6 @@
   "roles": {},
   "trades": [],
   "forumPosts": [],
-  "bankRequests": [
-    {
-      "nick": "ftr26",
-      "operation": "deposit",
-      "recipient": "",
-      "amount": "1",
-      "note": "Test",
-      "id": 1772392991284,
-      "timestamp": "01.03.2026, 21:23:11",
-      "status": "rejected"
-    }
-  ],
+  "bankRequests": [],
   "messages": {}
 }
