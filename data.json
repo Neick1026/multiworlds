@@ -14,12 +14,18 @@
       "email": "emelyanovvladimirv@yandex.ru",
       "password": "OTcwMjc3MTM=",
       "registeredAt": "2026-03-01T18:45:13.535Z"
+    },
+    "root": {
+      "email": "ya@ya.ru",
+      "password": "MTIzcXdlcnR5eA==",
+      "registeredAt": "2026-03-01T18:50:17.714Z"
     }
   },
   "balances": {
     "ftr26": 0,
     "Phantom112233": 0,
-    "nikool_z": 0
+    "nikool_z": 0,
+    "root": 0
   },
   "roles": {},
   "trades": [],
