@@ -1,6 +1,14 @@
 {
-  "users": {},
-  "balances": {},
+  "users": {
+    "ftr26": {
+      "email": "neick2611@gmail.com",
+      "password": "YXJ0ZXhvbnQyNjEx",
+      "registeredAt": "2026-03-01T13:12:17.267Z"
+    }
+  },
+  "balances": {
+    "ftr26": 0
+  },
   "roles": {},
   "trades": [],
   "forumPosts": [],
