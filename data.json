@@ -9,11 +9,17 @@
       "email": "HeCkajy@gmail.com",
       "password": "UGhhbnRvbQ==",
       "registeredAt": "2026-03-01T13:30:15.342Z"
+    },
+    "nikool_z": {
+      "email": "emelyanovvladimirv@yandex.ru",
+      "password": "OTcwMjc3MTM=",
+      "registeredAt": "2026-03-01T18:45:13.535Z"
     }
   },
   "balances": {
     "ftr26": 0,
-    "Phantom112233": 0
+    "Phantom112233": 0,
+    "nikool_z": 0
   },
   "roles": {},
   "trades": [],
