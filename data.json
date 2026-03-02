@@ -19,13 +19,19 @@
       "email": "ya@ya.ru",
       "password": "MTIzcXdlcnR5eA==",
       "registeredAt": "2026-03-01T18:50:17.714Z"
+    },
+    "admin": {
+      "email": "admin@admin.admin",
+      "password": "YWRtaW5hZG1pbg==",
+      "registeredAt": "2026-03-02T07:25:59.208Z"
     }
   },
   "balances": {
     "ftr26": 123,
     "Phantom112233": 0,
     "nikool_z": 0,
-    "root": 0
+    "root": 0,
+    "admin": 0
   },
   "roles": {},
   "trades": [],
